@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HikmatUllah Parwani</h1>
+<h1 align="center">Hi 👋, I'm Hikmat Ullah</h1>
 <h3 align="center">A passionate frontend developer from Swat Kpk</h3>
 
 - 🌱 I’m currently learning **NEXT.JS**
