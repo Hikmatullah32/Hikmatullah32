@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hikmat Ullah</h1>
 <h3 align="center">A passionate frontend developer from Swat Kpk</h3>
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently working on **Laraval**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hikmatullah32](https://github.com/Hikmatullah32)
 
 - 📝 I regularly write articles on [https://letswritewell.com/](https://letswritewell.com/)
 
-- 💬 Ask me about **JavaScript, React and Next.js**
+- 💬 Ask me about **JavaScript, React and PHP**
 
 - 📫 How to reach me **parwani1589@gmail.com**
 
