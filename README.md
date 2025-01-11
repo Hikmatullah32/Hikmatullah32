@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hikmat Ullah</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h3 align="center">A passionate Web developer from pakistan</h3>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="loading img">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqudoosasif&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqudoosasif" /> </p>
 
